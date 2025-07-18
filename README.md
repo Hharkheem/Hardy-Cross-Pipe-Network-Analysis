@@ -25,7 +25,7 @@ A Python GUI application that implements the Hardy-Cross method for analyzing fl
   * Matplotlib (for future visualization features)
 
 # Installation
-1. Clone the repository:
+Clone the repository:
     git clone https://github.com/Hharkheem/Hardy-Cross-Pipe-Network-Analysis.git
 
 # Usage
